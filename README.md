@@ -82,3 +82,106 @@ Choose a language and start with its official documentation:
 ---
 
 Following these steps in this order will help you build a solid foundation in backend development through documentation and hands-on practice.
+
+
+
+
+
+
+
+
+
+#another one too
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Backend Development Learning Path (Without Books)
+
+## 1. Internet and Web Basics
+- **Understanding the Internet**: Learn how data is transmitted across the web.  
+  **Resource**: [Mozilla Web Docs - How the Internet Works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- **Web Protocols and HTTP**: Get to know how browsers communicate with servers.  
+  **Resource**: [MDN Web Docs on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP).
+- **DNS and Domain Names**: Learn about resolving domain names and how web hosting works.  
+  **Resource**: [Cloudflare Learning Center - What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/).
+
+## 2. Programming Language for Backend Development
+- **Recommended Language**: Rust for its performance and safety.  
+  **Resource**: [Rust Official Documentation](https://doc.rust-lang.org/book/)
+- **Alternatives**:
+  - **Go**: If you prefer simpler syntax and easy concurrency handling.  
+    **Resource**: [Go Documentation - Getting Started](https://golang.org/doc/)
+  - **Python**: Known for rapid development and ease of learning.  
+    **Resource**: [Python Official Documentation](https://docs.python.org/3/tutorial/index.html)
+
+## 3. Core Backend Concepts
+- **Web Servers**: Understand how web servers work and common software like Nginx and Apache.  
+  **Resource**: [DigitalOcean Guide to Nginx](https://www.digitalocean.com/community/tutorial_series/understanding-nginx)
+- **APIs**: Learn about RESTful services, JSON APIs, and GraphQL.  
+  **Resource**: [MDN Web Docs - Introduction to REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+- **Databases**:
+  - **Relational Databases (PostgreSQL/MySQL)**: Understand SQL basics and database indexing.  
+    **Resource**: [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+  - **NoSQL Databases (MongoDB, Redis)**: Learn different data storage strategies.  
+    **Resource**: [MongoDB Official Documentation - Introduction](https://www.mongodb.com/docs/manual/introduction/)
+
+## 4. Web Security
+- **Common Security Concepts**: HTTPS, CORS, OWASP Top Ten Risks.  
+  **Resource**: [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- **Authentication Methods**: Learn about OAuth, JWT, and Basic Authentication.  
+  **Resource**: [Auth0 Documentation - OAuth 2.0](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow)
+
+## 5. Software Architecture and Design Principles
+- **Design Patterns**: Familiarize yourself with common patterns in software development.  
+  **Resource**: [Refactoring.Guru - Design Patterns](https://refactoring.guru/design-patterns)
+- **Microservices vs. Monolithic Architecture**: Pros and cons.  
+  **Resource**: [Microservices.io](https://microservices.io/)
+- **Containerization**: Learn Docker basics and container orchestration with Kubernetes.  
+  **Resource**: [Docker Documentation - Get Started](https://docs.docker.com/get-started/)
+
+## 6. Version Control and Deployment
+- **Git and GitHub**: Learn the basics of version control.  
+  **Resource**: [Git Documentation](https://git-scm.com/doc)
+- **CI/CD**: Understand the basics of continuous integration and deployment.  
+  **Resource**: [Atlassian CI/CD Guides](https://www.atlassian.com/continuous-delivery/continuous-integration)
+
+## 7. Operating Systems and Networking
+- **Basic OS Concepts**: Understand process management, memory management, etc.  
+  **Resource**: [MIT OpenCourseWare - Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- **Networking Basics**: Learn about protocols, ports, firewalls, etc.  
+  **Resource**: [Cisco - Networking Basics](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
+
+## 8. Testing and Debugging
+- **Types of Testing**: Unit testing, integration testing, and functional testing.  
+  **Resource**: [Mocha - JavaScript Testing Framework](https://mochajs.org/)
+- **Debugging Techniques**: Learn debugging strategies and tools.  
+  **Resource**: [Chrome DevTools - Debugging Guide](https://developer.chrome.com/docs/devtools/javascript/)
+
+## 9. Scalability and Performance
+- **Caching**: Understand server-side and client-side caching (Redis, Memcached).  
+  **Resource**: [Redis Documentation - Caching](https://redis.io/topics/caching)
+- **Load Balancing and Scaling**: Learn about horizontal and vertical scaling.  
+  **Resource**: [AWS Load Balancing Guide](https://aws.amazon.com/elasticloadbalancing/getting-started/)
+- **Monitoring and Observability**: Familiarize with tools like Prometheus and Grafana.  
+  **Resource**: [Prometheus Documentation - Monitoring Basics](https://prometheus.io/docs/introduction/overview/)
+
+## Additional Tips
+- **Follow a project-based approach** while learning. For example, build a small web application to practice RESTful APIs, authentication, and database handling.
+- **Use platforms like [roadmap.sh](https://roadmap.sh)** to visualize the journey and keep track of your progress.
+
+These resources cover essential knowledge and will help you become a proficient backend developer without the need for extensive book reading.
+
+
+
